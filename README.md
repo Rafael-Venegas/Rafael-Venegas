@@ -1,6 +1,6 @@
 ## About me 👋🏻
 
-Hello, pleased to meet you. I'm Rafael Venegas, a spanish 23 years old spanish boy who's learning full-stack development. 👨🏻‍💻
+Hello, pleased to meet you. I'm Rafael Venegas, a spanish 23 years old boy who's learning full-stack development. 👨🏻‍💻
 
 I've been interested in computers since I was 6 years old, when I first played a couple of adobe flash games in the web. 🖥️
 
